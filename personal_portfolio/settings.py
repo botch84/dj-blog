@@ -79,8 +79,8 @@ DATABASES = {
     'default': {
         'NAME': 'portfolio',
         'ENGINE': 'django.db.backends.mysql',
-        'USER': 'luca',
-        'PASSWORD': 'Lucademo22_',
+        'USER': '',
+        'PASSWORD': '',
         'OPTIONS': {
           'autocommit': True,
         },
